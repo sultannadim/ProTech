@@ -20,3 +20,8 @@ body {
   min-height: 350px;
 }
 /* slider part end */
+/* company part start */
+.company img {
+  max-width: 120px;
+}
+/* company part end */
