@@ -1,6 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+/* slider part start */
 .carousel_center {
   top: 50%;
   left: 50%;
@@ -18,3 +19,4 @@ body {
 .min_h_350 {
   min-height: 350px;
 }
+/* slider part end */
